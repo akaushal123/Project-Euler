@@ -1,4 +1,11 @@
 """
+By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
+
+What is the 10 001st prime number?
+"""
+
+
+"""
  potential_prime calculates prime number with value 6*n+1 and 6*n-1 (by property that all prime are formed by this way)
  is_prime checks for the prime number formed by the potential_prime
  nth_prime makes a list for the prime numbers of the given limit
